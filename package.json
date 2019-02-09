@@ -1,7 +1,7 @@
 {
-  "name": "contentful-blog-in-5-min",
+  "name": "portfolio",
   "version": "1.1.1",
-  "description": "A static blog based on Contentful",
+  "description": "A static portfolio based on Contentful",
   "author": "stefan judis <stefanjudis@gmail.com>",
   "private": true,
   "dependencies": {
